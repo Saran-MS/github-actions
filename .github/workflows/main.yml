@@ -8,7 +8,7 @@ jobs:
         run: |
           echo "Hello world! welcome"
           echo "Example of multi line commands"
-          echo "$date"
+          echo $(date)
       - name: second step
         run: echo "Bye!"
   
