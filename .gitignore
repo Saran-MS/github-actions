@@ -1,7 +1,7 @@
 # Node modules and dependencies
 node_modules/
 npm-debug.log
-package-lock.json
+
 
 # Logs
 logs/
